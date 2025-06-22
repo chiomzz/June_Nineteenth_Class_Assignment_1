@@ -1,0 +1,1 @@
+print("fight the good fight of faith; lay hold of eternal life to which you were summoned")
