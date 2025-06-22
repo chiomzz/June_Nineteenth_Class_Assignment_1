@@ -1,0 +1,1 @@
+print("for the LOVE of money is the root of all evil")
