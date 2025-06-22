@@ -1,0 +1,1 @@
+print("your word is a lamp unto my feet and light unto my path")
