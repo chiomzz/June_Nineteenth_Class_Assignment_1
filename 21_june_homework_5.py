@@ -1,0 +1,1 @@
+print("Greater is he that is in me than he that is in the world")
