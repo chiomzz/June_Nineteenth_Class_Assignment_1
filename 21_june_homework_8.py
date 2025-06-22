@@ -1,0 +1,1 @@
+print("the trial and proving of your faith bring out endurance and steadfastness and patience")
